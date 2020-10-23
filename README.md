@@ -2,8 +2,6 @@
 Jay Lee  
 Last update: October 23, 2020 (15:14)
 
-Test
-
 _I recommend you read the HTML version of this document in a web browser._
 
 For this preliminary analysis, I looked into the _European Social Survey_ (**ESS**) and the _Eurobarometer_ (**EB**). 
